@@ -1,6 +1,4 @@
 
-## set working directory to the folder where the unzipped files are located
-setwd("C:/Users/302016380/Desktop/Data Science/Getting and Cleaning Data/wk4/project/UCI HAR Dataset")
 
 library("dplyr")
 
