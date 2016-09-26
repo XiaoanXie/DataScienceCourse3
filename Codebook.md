@@ -1,13 +1,13 @@
-1. Purpose of the Code
+1. Purpose of the Code.
 The code is part of the final project in Data Science Speciallization 3: Getting and Cleaning Data to merge, clean and extract from the raw data to provide a tidy data set based on specific requirement.
 
-2. Original data
+2. Original data.
 The raw data are collected from the accelerometers from the Samsung Galaxy S smartphone. Description of the data are in below link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-3. Outcome of the code
+3. Outcome of the code.
 a combined and tidy data set from merging the raw data and taking the mean and standard deviation of each acitivities, and a new tidy data set with the average of each variable for each activity and each subject. 
 
-4. Description of variables
+4. Description of variables.
   1. Subject: integer lists the index of tested subjects, from 1 to 30.
   2. Activities: text lists activities of the tested subject, including laying, sitting, standing, walking, walking upstairs, walking downstairs.
   3-68: features as signals generates from the smartphone. 
